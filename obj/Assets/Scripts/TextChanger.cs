@@ -2,7 +2,7 @@ using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ChangeText : MonoBehaviour
+public class TextChanger : MonoBehaviour
 {
     [SerializeField] private Text _text;
 

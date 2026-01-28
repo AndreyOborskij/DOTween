@@ -1,7 +1,7 @@
 using DG.Tweening;
 using UnityEngine;
 
-public class Sequences : MonoBehaviour
+public class TransformChanger : MonoBehaviour
 {
     [SerializeField] private Vector3 _position;
 
